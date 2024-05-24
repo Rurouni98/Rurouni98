@@ -13,7 +13,7 @@
 
 ## 💬 About me
 - 🌱 I’m 27 seoul student
-- ❤️ I love to code and game
+- ❤️ I love to code and play games
 <!-- - ⚡ Fun fact: I can sleep more than 12 hours straight -->
 
 #### ⏲️ Work Stats
