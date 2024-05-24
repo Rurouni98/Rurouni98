@@ -56,37 +56,11 @@ Saturday                 1 commits           ░░░░░░░░░░░�
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
 Java                     4 repos             █████████████████████████   100.00 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Rurouni98/Rurouni98/main/assets/bar_graph.png)
-
 
  Last Updated on 24/05/2024 04:30:59 UTC
 <!--END_SECTION:waka-->
