@@ -20,6 +20,75 @@
 <!-- [![Rurouni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=veggie_garden)](https://wakatime.com/@veggie_garden) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 43.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 61 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                78 commits          ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+🌆 Daytime                85 commits          ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+🌃 Evening                134 commits         ███████████░░░░░░░░░░░░░░   44.37 % 
+🌙 Night                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Tuesday                  30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Wednesday                51 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Thursday                 119 commits         ██████████░░░░░░░░░░░░░░░   39.40 % 
+Friday                   63 commits          █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     4 repos             █████████████████████████   100.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Rurouni98/Rurouni98/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/05/2024 04:30:59 UTC
 <!--END_SECTION:waka-->
 
 #### 🛠️ Github Stats
