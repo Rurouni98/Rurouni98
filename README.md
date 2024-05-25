@@ -20,6 +20,8 @@
 <!-- [![Rurouni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=veggie_garden)](https://wakatime.com/@veggie_garden) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
 **🐱 My GitHub Data** 
@@ -84,7 +86,7 @@ Java                     4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rurouni98/Rurouni98/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2024 18:36:37 UTC
+ Last Updated on 25/05/2024 18:35:21 UTC
 <!--END_SECTION:waka-->
 
 #### 🛠️ Github Stats
