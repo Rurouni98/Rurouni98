@@ -9,7 +9,6 @@
 [![Github Badge](https://img.shields.io/badge/-Rurouni98-grey?style=flat&logo=github&logoColor=white&link=https://github.com/veggie-garden/)](https://www.github.com/Rurouni98/) 
 [![Gmail Badge](https://img.shields.io/badge/-byungju98@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:byungju98@gmail.com)](byungju98@gmail.com) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRurouni98&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![wakatime](https://wakatime.com/badge/user/30bd3f17-c0e9-45ef-92d6-eac8f8689edf.svg)](https://wakatime.com/@30bd3f17-c0e9-45ef-92d6-eac8f8689edf)
 
 ## 💬 About me
 - 🌱 I’m 27 seoul student
@@ -19,75 +18,6 @@
 #### ⏲️ Work Stats
 <!-- [![Rurouni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=veggie_garden)](https://wakatime.com/@veggie_garden) -->
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 43.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 4 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                78 commits          ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
-🌆 Daytime                87 commits          ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-🌃 Evening                139 commits         ███████████░░░░░░░░░░░░░░   44.98 % 
-🌙 Night                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Tuesday                  30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Wednesday                51 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Thursday                 119 commits         ██████████░░░░░░░░░░░░░░░   38.51 % 
-Friday                   68 commits          ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Sunday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     4 repos             █████████████████████████   100.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Rurouni98/Rurouni98/main/assets/bar_graph.png)
-
-
- Last Updated on 26/05/2024 18:35:27 UTC
-<!--END_SECTION:waka-->
 
 #### 🛠️ Github Stats
 <p>
