@@ -15,15 +15,18 @@
 - ❤️ I love to code and play games
 <!-- - ⚡ Fun fact: I can sleep more than 12 hours straight -->
 
-#### ⏲️ Work Stats
+<!--#### ⏲️ Work Stats-->
 <!-- [![Rurouni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=veggie_garden)](https://wakatime.com/@veggie_garden) -->
 
+#### 🏅BaekJoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=byungju98)](https://solved.ac/byungju98/)
 
 #### 🛠️ Github Stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rurouni98&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rurouni98&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
+
 <!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=veggie-garden&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/veggie-garden/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veggie-garden&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/veggie-garden/github-readme-stats)   -->
 
