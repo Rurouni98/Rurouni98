@@ -7,7 +7,7 @@
 ## Hi there 👋
 
 [![Github Badge](https://img.shields.io/badge/-Rurouni98-grey?style=flat&logo=github&logoColor=white&link=https://github.com/veggie-garden/)](https://www.github.com/Rurouni98/) 
-[![Gmail Badge](https://img.shields.io/badge/-byungju98@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:byungju98@gmail.com)](byungju98@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-byungju98@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:byungju98@gmail.com)](mailto:byungju98@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRurouni98&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 💬 About me
